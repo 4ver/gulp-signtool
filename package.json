@@ -1,0 +1,38 @@
+{
+  "name": "gulp-signtool",
+  "version": "0.1.0",
+  "description": "Signs windows executables using microsfts signtool",
+  "keywords": [
+    "gulpplugin",
+    "sign",
+    "windows",
+    "digital",
+    "signature"
+  ],
+  "homepage": "https://github.com/4ver/gulp-signtool",
+  "bugs": {
+    "url": "https://github.com/4ver/gulp-signtool/issues"
+  },
+  "author": {
+    "name": "Donal Linehan",
+    "email": "me@don.al",
+    "url": "https://github.com/4ver"
+  },
+  "main": "./index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/4ver/gulp-signtool.git"
+  },
+  "engines": {
+    "node": ">=0.10.0",
+    "npm": ">=1.2.10"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
